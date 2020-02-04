@@ -136,40 +136,40 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="71" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580830643477" />
-    <state x="10" y="11" key="CommitChangelistDialog2" timestamp="1580837023596">
+    <state x="10" y="11" key="CommitChangelistDialog2" timestamp="1580837957403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="10" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580837023596" />
+    <state x="10" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580837957403" />
     <state x="325" y="191" key="FileChooserDialogImpl" timestamp="1580830589974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="325" y="191" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580830589974" />
-    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1580837855870">
+    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1580838046658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580837855870" />
-    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1580837855870">
+    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580838046658" />
+    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1580838046658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580837855870" />
-    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1580837855869">
+    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580838046658" />
+    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1580838046657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580837855869" />
-    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1580837855870">
+    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580838046657" />
+    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1580838046658">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580837855870" />
-    <state x="0" y="149" key="Vcs.Push.Dialog.v2" timestamp="1580837042032">
+    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580838046658" />
+    <state x="0" y="149" key="Vcs.Push.Dialog.v2" timestamp="1580837968833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580837042032" />
+    <state x="0" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580837968833" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580830191583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580830191583" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_intro$main.coverage" NAME="main Coverage Results" MODIFIED="1580837855849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_intro$main.coverage" NAME="main Coverage Results" MODIFIED="1580838046640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
