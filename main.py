@@ -1,9 +1,7 @@
-def fib(n):
-    a, b = 0, 1
-    while a < n:
-        print(a, end=' ')
-        a, b = b, a + b
-    print()
+def make_incrementor(n):
+    return lambda x: x + n
 
 
-fib(2000)
+f = make_incrementor(50)
+print(f(0))
+print(f(100))
